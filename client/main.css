@@ -1,0 +1,31 @@
+/* CSS declarations go here */
+body{
+  font-family: Verdana, sans-serif;
+  background-color: #d5f4e6;
+  font-size: 14px;
+}
+.container{
+  background-color: #80ced6;
+  max-width: 600px;
+  margin: 0 auto;
+  min-height: 100%;
+  padding: 20px;
+  border-radius: 25px;
+}
+h1{
+  font-size: 1.5em;
+
+
+}
+h2{
+  fontsize: 1.2em;
+  border-bottom: 1px solid black;
+}
+.Text{
+  width: 45%;
+
+}
+#calcNum, #sortedLetters{
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 1.53em;
+}
